@@ -31,7 +31,8 @@ Welcome to the 2048 Game! A fun and addictive game where you can test your puzzl
 - **CSS**: Styles the game for a visually appealing experience.
 
 ## 📷 Screenshot
-(./path/to/2048.png)
+![Uploading image.png…]()
+
 
 ## 📜 License
 
@@ -48,17 +49,3 @@ Feel free to fork this repository and submit pull requests. Any improvements, bu
 
 ---
 
-### Adding a Screenshot
-
-1. **Take a Screenshot**:
-   - Open your game in a browser.
-   - Take a screenshot of the game (use `Print Screen` on Windows or `Command + Shift + 4` on Mac).
-
-2. **Add the Screenshot to Your Repository**:
-   - Save the screenshot as `screenshot.png` or any name you prefer.
-   - Place it in a directory within your project (e.g., `assets` or `images`).
-
-3. **Update the README**:
-   - Replace `./path/to/screenshot.png` in the README with the relative path to your screenshot file.
-
-This setup will make your README informative and visually appealing!
