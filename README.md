@@ -31,7 +31,7 @@ Welcome to the 2048 Game! A fun and addictive game where you can test your puzzl
 - **CSS**: Styles the game for a visually appealing experience.
 
 ## 📷 Screenshot
-![Uploading image.png…]()
+![Uploading image.png…](https://github.com/Haricharhan/2048-Game/blob/main/2048.png)
 
 
 ## 📜 License
