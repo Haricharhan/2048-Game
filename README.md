@@ -29,9 +29,11 @@ Welcome to the 2048 Game! A fun and addictive game where you can test your puzzl
 - **HTML**: Markup language for structuring the game interface.
 - **JavaScript**: Provides the game logic and interactions.
 - **CSS**: Styles the game for a visually appealing experience.
-
 ## 📷 Screenshot
-![Uploading image.png…](https://github.com/Haricharhan/2048-Game/blob/main/2048.png)
+
+<p align="center">
+  <img src="https://github.com/Haricharhan/2048-Game/blob/main/2048.png" alt="2048 Game Screenshot" width="600"/>
+</p>
 
 
 ## 📜 License
